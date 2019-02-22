@@ -9,6 +9,8 @@ import { Component } from '@angular/core'
         <event-thumbnail [event]="event1"></event-thumbnail>
     </div>
     `
+    ,
+  
 })
 
 export class EventsListComponent{
